@@ -1,0 +1,15 @@
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\bin\Debug\net5.0\CommodityMain.DataAccess.EF.deps.json
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\bin\Debug\net5.0\CommodityMain.DataAccess.EF.runtimeconfig.json
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\bin\Debug\net5.0\CommodityMain.DataAccess.EF.runtimeconfig.dev.json
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\bin\Debug\net5.0\CommodityMain.DataAccess.EF.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\bin\Debug\net5.0\CommodityMain.DataAccess.EF.pdb
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.csproj.AssemblyReference.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.AssemblyInfoInputs.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.AssemblyInfo.cs
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.csproj.CoreCompileInputs.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\refint\CommodityMain.DataAccess.EF.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.pdb
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\CommodityMain.DataAccess.EF.genruntimeconfig.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.DataAccess.EF\obj\Debug\net5.0\ref\CommodityMain.DataAccess.EF.dll

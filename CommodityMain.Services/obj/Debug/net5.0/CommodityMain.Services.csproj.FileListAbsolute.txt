@@ -1,0 +1,12 @@
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\bin\Debug\net5.0\CommodityMain.Services.deps.json
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\bin\Debug\net5.0\CommodityMain.Services.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\bin\Debug\net5.0\CommodityMain.Services.pdb
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.csproj.AssemblyReference.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.AssemblyInfoInputs.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.AssemblyInfo.cs
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.csproj.CoreCompileInputs.cache
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\refint\CommodityMain.Services.dll
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\CommodityMain.Services.pdb
+C:\Users\modib\source\repos\CommodityMain\CommodityMain.Services\obj\Debug\net5.0\ref\CommodityMain.Services.dll

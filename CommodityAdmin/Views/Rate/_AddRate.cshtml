@@ -1,0 +1,51 @@
+﻿@model RateViewModel
+
+@{
+    ViewData["Title"] = (Model.rateID == 0 ? "Add" : "Update") + " Rate ";
+    Layout = null; // "~/Views/Shared/_Layout.cshtml";
+
+    int sn = 1;
+}
+
+<div class="modal fade" id="addRateModal" tabindex="-1" role="dialog" aria-labelledby="addRegisterLabel" aria-hidden="true">
+	<div class="modal-dialog modal-xl" role="document">
+		<div class="modal-content">
+			<form asp-action="UpsertRates" asp-controller="rate" id="addRate" data-targeturl="/rate/?vType=rates" method="post">
+			<div class="modal-header bg-purple">
+				<h5 class="modal-title pl-3" id="addRate">@ViewData["Title"]</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-md-12">
+						  <span class="text-info pull-left inline">All fields, mark <span class="text-danger"> * </span> are required</span>
+					</div>
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+					 <input type="hidden" asp-for="rateID" />
+					 <div class="form-group col-md-6">
+                                    <label asp-for="Rate" class="control-label"></label> <span class="text-danger">*</span>
+                                    <input asp-for="Rate" type="" class="form-control" required="required" />
+                                    <span asp-validation-for="Rate" class="text-danger"></span>
+                     </div>
+					 <div class="form-group col-md-3">
+                        <label asp-for="RateTypeID" class="control-label"></label><span class="text-danger"> *</span>
+                        <select asp-for="RateTypeID" asp-items="ViewBag.ratetypes" class="form-control" required>
+                            <option value="">Select Rate Type</option>
+                        </select>
+                        <span asp-validation-for="RateTypeID" class="text-danger"></span>
+                    </div>
+				</div>
+				
+			</div>
+			<div class="modal-footer ">
+				<button type="submit" class="btn btn-primary btn-sm process-action"><i class="fa fa-save"></i>@(Model.rateID == 0 ? "Submit" : "Update")Add</button>
+				<button type="button" class="btn btn-danger close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+					</button>
+			</div>
+			</form>
+		</div>
+	</div>
+</div>

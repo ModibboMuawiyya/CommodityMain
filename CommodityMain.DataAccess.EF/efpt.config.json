@@ -1,0 +1,66 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "CommodityContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "CommodityMain.DataAccess.EF",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "commodity",
+         "ObjectType": 0
+      },
+      {
+         "Name": "commodityprice",
+         "ObjectType": 0
+      },
+      {
+         "Name": "commoditytype",
+         "ObjectType": 0
+      },
+      {
+         "Name": "exceptionlogs",
+         "ObjectType": 0
+      },
+      {
+         "Name": "location",
+         "ObjectType": 0
+      },
+      {
+         "Name": "measurement",
+         "ObjectType": 0
+      },
+      {
+         "Name": "rate",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ratetype",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "CommodityDB",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
